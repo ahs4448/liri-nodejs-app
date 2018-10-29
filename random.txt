@@ -1,0 +1,23 @@
+
+
+
+
+
+spotify-this = "";
+
+movie-this = "";-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:45:25 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,This is America
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:45:25 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,This is America
+
+Data Output: 

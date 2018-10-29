@@ -1,0 +1,291 @@
+-----OMDB Log Entry Start-----
+
+Processed on:
+Wed Oct 24 2018 18:36:05 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,movie-this,Batman
+
+Data Output: 
+
+Movie Title: Batman
+Year: 1989
+IMDB rating: 7.6
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Wed Oct 24 2018 18:52:11 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,movie-this,Batman
+
+Data Output: 
+
+Movie Title: Batman
+Year: 1989
+IMDB rating: 7.6
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Wed Oct 24 2018 19:26:16 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,movie-this,Batman
+
+Data Output: 
+
+Movie Title: Batman
+Year: 1989
+IMDB rating: 7.6
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:42:41 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,This is America
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:42:41 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,This is America
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:47:09 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Slim Shady
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:47:09 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Slim Shady
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:50:20 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Slim Shady
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:50:20 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Slim Shady
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:51:03 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Slim Shady
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 19:51:03 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Slim Shady
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 20:07:55 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Drake
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Wed Oct 24 2018 20:07:55 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,Drake
+
+Data Output: 
+-----OMDB Log Entry Start-----
+
+Processed on:
+Thu Oct 25 2018 13:11:15 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,movie-this,Batman
+
+Data Output: 
+
+Movie Title: Batman
+Year: 1989
+IMDB rating: 7.6
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Thu Oct 25 2018 13:11:57 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,This is America
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Thu Oct 25 2018 13:11:57 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this-song,This is America
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Thu Oct 25 2018 16:13:42 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this,Lil Yachty
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Thu Oct 25 2018 16:13:42 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liriBackup.js,spotify-this,Lil Yachty
+
+Data Output: 
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Oct 26 2018 12:44:23 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liri.js,movie-this,Batman
+
+Data Output: 
+
+Movie Title: Batman
+Year: 1989
+IMDB rating: 7.6
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Fri Oct 26 2018 12:44:46 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liri.js,spotify-this,Drake
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Fri Oct 26 2018 12:44:46 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liri.js,spotify-this,Drake
+
+Data Output: 
+-----OMDB Log Entry Start-----
+
+Processed on:
+Sat Oct 27 2018 23:23:14 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liribot-node-app/liri.js,movie-this,Batman
+
+Data Output: 
+
+Movie Title: Batman
+Year: 1989
+IMDB rating: 7.6
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+-----OMDB Log Entry End-----
+
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Oct 29 2018 00:02:18 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liri.js,spotify-this,slim shady
+
+Data Output: 
+-----Spotify Log Entry Start-----
+Processed on:
+Mon Oct 29 2018 00:02:18 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liri.js,spotify-this,slim shady
+
+Data Output: 
+-----OMDB Log Entry Start-----
+
+Processed on:
+Mon Oct 29 2018 00:02:37 GMT-0400 (EDT)
+
+terminal commands:
+/usr/local/bin/node,/Users/abdulhameed/liri-node-app/liri.js,movie-this,Batman
+
+Data Output: 
+
+Movie Title: Batman
+Year: 1989
+IMDB rating: 7.6
+Rotten Tomatoes Rating: 72%
+Country: USA, UK
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+-----OMDB Log Entry End-----
+
